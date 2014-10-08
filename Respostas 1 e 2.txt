@@ -18,6 +18,11 @@ Lilian Karoline Dos Santos linda
 -----------------------------------------------------
 
 Estão feita as alterações com sucesso.....
+<<<<<<< HEAD
 
 
 oinn
+=======
+-------------------------------------
+ O lucas e muito chato
+>>>>>>> origin/master
