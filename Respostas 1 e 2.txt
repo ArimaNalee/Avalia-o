@@ -1,0 +1,9 @@
+1º Para quer serve o Commit e dê exemplo:
+
+Envia alterações para o repositório, criando uma revisão. É como quando você salvar um arquivo, exceto com Git, cada vez que você salvar ele cria uma
+identificação única, que lhe permite manter um 
+registro de quais alterações foram feitas quando e por quem.
+
+2ºPara que serve o botão Sync da ferramenta do Github:
+
+Serve para Sincronizar um Repositorio
