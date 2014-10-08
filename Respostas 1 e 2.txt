@@ -7,3 +7,10 @@ registro de quais alterações foram feitas quando e por quem.
 2ºPara que serve o botão Sync da ferramenta do Github:
 
 Serve para Sincronizar um Repositorio
+
+
+---------------------------------------------------------
+
+
+Lidiane Karoline Bezerra De Almeida
+
